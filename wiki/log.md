@@ -4,7 +4,15 @@
 
 ---
 
-## 2026-06-29
+## 2026-07-13
+
+- **拍快照**：创建 Wiki 状态快照 #4 [snapshot-2026-07-13](memory/snapshot-2026-07-13.md) — 地狱压缩学习计划启动 + Agent 学习项目搭建
+
+- **重写学习路线**：[AI Agent 转型学习路线](learning/ai-agent-roadmap.md) — **追加地狱压缩版**（22周到年底找工），砍掉花哨内容，只留面试核心。新增 S0 生存期（2周 Python + FastAPI）、S1 Agent期（3周手写 Agent Loop）、S2-S5 全链路计划。同步更新摘要。
+- **新建参考页**：[GitHub 配置信息](reference/github-config.md) — SSH Key 和仓库配置记录
+- **信息系统更新**：[profile/memory.md](profile/memory.md) — 追加"地狱计划启动"重要瞬间，更新上次对话记录
+- **索引更新**：[index.md](index.md) — 新增 GitHub 配置页链接
+- **用户进展**：AiAgentWikiLearning 仓库搭建完成，FastAPI 项目跑通 + push 到 GitHub
 
 - **拍快照**：创建 Wiki 状态快照 #3 [snapshot-2026-06-29](memory/snapshot-2026-06-29.md) — 内容充实期，记录今日为止所有页面、学习和更新状态
 

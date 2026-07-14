@@ -48,6 +48,7 @@
 ## 参考信息
 
 - [AI Agent 应用开发工程师技术栈全景](reference/ai-agent-developer-tech-stack.md) — 2026 年 Agent 岗位必备技术栈 + 你的差距分析 + 差异化优势
+- [GitHub 配置信息](reference/github-config.md) — SSH Key 和仓库配置（2026-07-13 更新）
 
 ---
 
