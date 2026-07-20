@@ -17,6 +17,7 @@
 ## 学习笔记
 
 - [AI Agent 转型学习路线](learning/ai-agent-roadmap.md) — 从 Java 全栈转 AI Agent 的半年定制学习计划（阶段一：LLM 核心概念已学完理论）
+- [AI Agent 面试题集](learning/interview-questions.md) — 16 道 Agent/RAG 面试题整理（2026-07-14 收录）
 - [LLM 基础概念入门笔记](learning/llm-basics-note.md) — LLM / Token / Context / Prompt / Tool / MCP / Agent 核心概念速记
 
 ## 项目

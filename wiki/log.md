@@ -13,6 +13,11 @@
 - **信息系统更新**：[profile/memory.md](profile/memory.md) — 追加"地狱计划启动"重要瞬间，更新上次对话记录
 - **索引更新**：[index.md](index.md) — 新增 GitHub 配置页链接
 - **用户进展**：AiAgentWikiLearning 仓库搭建完成，FastAPI 项目跑通 + push 到 GitHub
+- **新建面试题集**：[AI Agent 面试题集](learning/interview-questions.md) — 收录 16 道 Agent/RAG 高频面试题
+
+---
+
+## 2026-06-29
 
 - **拍快照**：创建 Wiki 状态快照 #3 [snapshot-2026-06-29](memory/snapshot-2026-06-29.md) — 内容充实期，记录今日为止所有页面、学习和更新状态
 
